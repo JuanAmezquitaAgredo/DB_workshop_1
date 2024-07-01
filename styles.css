@@ -11,8 +11,10 @@ body {
 }
 
 header {
-    background-color: #003B4A;
-    color: white;
+    background-image: url('./images/fondo.png');
+    background-size: cover;
+    background-position: center;
+    color: black;
     text-align: center;
     padding: 20px 0;
 }
